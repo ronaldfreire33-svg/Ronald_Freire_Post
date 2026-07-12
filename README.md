@@ -4,7 +4,7 @@ Aprendiz de Análisis de Datos, enfocado en SQL. Estos son mis proyectos de prá
 
 ## Proyectos
 
-### 1. Limpieza de Datos en SQL 
+### 1. Limpieza de Datos SQL
 Fundamentos de tratamiento de datos reales: nulos, duplicados y estandarización de texto.
 
 LINK -> https://ronaldfreire33-svg.github.io/Limpieza-De-Datos-SQL/ 
@@ -23,5 +23,10 @@ LINK -> https://ronaldfreire33-svg.github.io/Analisis_De_Mercado_SQL/
 ## Herramientas
 PostgreSQL · DBeaver
 
+## Flujo de trabajo
+
+<img width="394" height="578" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/0cd9267e-876f-4d7d-b57e-ddbef8bfb2ee" />
+
+
 ## Contacto
-[Agrega aquí tu LinkedIn o correo]
+www.linkedin.com/in/ronald-freire-7635133a8
